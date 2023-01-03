@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamad Rizal</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24297652](https://dribbble.com/shots/3587000-Coding)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrizal98&label=Profile%20views&color=0e75b6&style=flat" alt="mrizal98" /> </p>
 
