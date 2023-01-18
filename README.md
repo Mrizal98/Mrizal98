@@ -22,7 +22,7 @@
 
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrizal98&theme=react&line_height=40&hide=css"/> </a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrizal98&show_icons=true&locale=en" alt="mrizal98" /></p>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrizal98&show_icons=true&locale=en" alt="mrizal98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrizal98&" alt="mrizal98" /></p>
 
